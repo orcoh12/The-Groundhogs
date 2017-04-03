@@ -6,6 +6,7 @@ public class Print_Group_Names {
 		System.out.println("Names of the group:");
 		
 		System.out.println("Idan");
+		System.out.println("Or");
 
 	}
 
